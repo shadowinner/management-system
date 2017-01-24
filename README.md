@@ -1,2 +1,2 @@
 # management-system
-this is a project about laboratory management system
+this is a project about library management system
